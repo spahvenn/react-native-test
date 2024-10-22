@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "574d03bd-349d-45cb-8e32-645f29d3bcab"
+      }
+    },
+    "owner": "spahvenn"
   }
 }
